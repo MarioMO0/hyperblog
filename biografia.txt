@@ -1,5 +1,6 @@
 Hola mi nombre es Mario Martinez Olivares y soy el oso de mi osita(Rosa Itzel mi vida Moreno Garcia).
-
 Hola desde el futuro ahora hablare de mi vida laboral.
 probando cambios para pasar a unstaged.
 aqui estamos continuando con el curso de git y github de platzi :)
+
+Hola soy la Osita de M3mory y estoy uniendome al proyecto de hyperblog
