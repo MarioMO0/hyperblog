@@ -3,4 +3,6 @@ Hola desde el futuro ahora hablare de mi vida laboral.
 probando cambios para pasar a unstaged.
 aqui estamos continuando con el curso de git y github de platzi :)
 
+Master 1
+
 Hola soy la Osita de M3mory y estoy uniendome al proyecto de hyperblog
